@@ -1,5 +1,5 @@
 # Cuda_Knn_Vp_Tree
-A naive implementation of a vantage point tree using CUDA and an additional knn search over it using CUDA too.
+Knn-search over a vantage point tree using CUDA. The construction of the vantage point tree is implemented using CUDA.
 
 **Parallel implementation execution:**
 
